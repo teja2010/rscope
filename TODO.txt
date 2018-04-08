@@ -1,0 +1,11 @@
+Done:
+
+
+=============
+
+TODO:
+
+parse vars, structs and funcs
+create a basic db
+command line search returns file & line numbers.
+ncurses interface

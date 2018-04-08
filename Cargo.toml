@@ -1,0 +1,6 @@
+[package]
+name = "rscope"
+version = "0.1.0"
+authors = ["Tanikella Tejaswi <tteja2010@gmail.com>"]
+
+[dependencies]
