@@ -1,0 +1,10 @@
+Done:
+
+
+=============
+
+TODO:
+
+create a basic db
+command line search returns file & line numbers.
+ncurses interface
